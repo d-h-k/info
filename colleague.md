@@ -16,6 +16,8 @@
 
 ## Dong
 
+![pyro](./img/pyro_profile.png)
+- dsdsd
 ## Bongf
 
 ## Jung
